@@ -1,0 +1,25 @@
+# Gradle files
+/build/
+/.gradle/
+
+# Temp files
+chromium-user-data/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+/bin/
+
+# generated
+src/main/resources/version-generated.txt
+#Visual Studio Code 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
